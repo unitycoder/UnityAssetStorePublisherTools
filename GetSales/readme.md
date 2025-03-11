@@ -12,3 +12,5 @@ node.js script that logins into Publisher portal (v3) and downloads sales stats 
 - unitycoder.com
 - chatgpt
 
+### Images
+![image](https://github.com/user-attachments/assets/ffd5f099-5662-4c99-a51b-ba83dbd70684)
