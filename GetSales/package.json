@@ -1,0 +1,17 @@
+{
+  "name": "GetSales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "axios": "^1.8.2",
+    "axios-cookiejar-support": "^5.0.5",
+    "cheerio": "^1.0.0",
+    "tough-cookie": "^5.1.2"
+  }
+}
